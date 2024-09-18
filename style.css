@@ -1,3 +1,69 @@
 * {
     box-sizing: border-box;
 }
+
+body {
+    font-family: "Open Sans", sans-serif;
+    color: #1b1b1b;
+}
+
+.container {
+    width: 1120px;
+    margin: 88px auto;
+}
+
+.headline {
+    color: #e1624f;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+.busan-description {
+    text-align: center;
+    font-size: 16px;
+    font-style: italic;
+    margin-bottom: 40px;
+}
+
+.divider {
+    width: 100%;
+    border: solid 1px #d9d9d9;
+    margin-bottom: 64px;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    margin: 0;
+}
+
+.topic-02 p {
+    font-size: 16px;
+}
+
+.topic-02 img {
+    margin-top: 64px;
+}
+
+.pre-list {
+    font-size: 16px;
+    font-weight: 900;
+}
+
+h3 {
+    font-size: 28px;
+    font-weight: bold;
+    margin: 20px 0;
+}
+
+footer {
+    text-align: center;
+}
+
